@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Jan 12 2024
+
+@author: nelly
+"""
+
 import requests
 
 def fetch_gene_from_ensembl(snp_id):
